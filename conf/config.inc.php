@@ -19,7 +19,6 @@
 	define("hostname",$hostname);
 	define("database",$database);
 
-
 	/**
 	 * Central phpPgAdmin configuration.  As a user you may modify the
 	 * settings here for your particular configuration.
